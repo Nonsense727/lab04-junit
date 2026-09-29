@@ -2,3 +2,5 @@ target/
 .idea/
 .DS_Store
 *.class
+# Teacher's instruction document - not part of the deliverable
+*.docx
